@@ -1,0 +1,38 @@
+_repo: In-Story-land_33980
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harrison, Elizabeth
+    birthdate: 1849
+    deathdate: 1927
+    gutenberg_agent_id: '36613'
+    url: http://www.gutenberg.org/2009/agents/36613
+description: ''
+gutenberg_issued: '2010-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+tableOfContents: Little Beta and the lame giant -- The line of golden light; or, the
+  little blind sister -- Prince Harweda and the magic prison -- The little Gray Grandmother;
+  or, the enchanted mirror -- Little Blessed-Eyes; or, the fairy's birthday gift --
+  The fair white city; or, a story of the past, present and future -- The loving cup
+  which was made of iron -- Hans and the four big giants -- Story of the small green
+  caterpillar and the beautiful white butterfly -- The discontented mill window --
+  The strange story of a wonderful sea-god -- The vision of Dante -- How little Cedric
+  became a knight -- Story of Christopher Columbus for little children -- A story
+  of Decoration Day for the little children of to-day.
+title: In Story-land
+url: http://www.gutenberg.org/ebooks/33980
